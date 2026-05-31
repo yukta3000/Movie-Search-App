@@ -39,5 +39,3 @@ src/
     └── ShimmerCard.jsx  # Loading skeleton
 
 ---
-
-Made with love by Yukta Taneja
