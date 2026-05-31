@@ -24,22 +24,20 @@ A responsive movie search app built with **React + Tailwind CSS**, powered by th
 
 ## Getting Started
 
-```bash
 npm install
 npm start
-```
+
+## Project Structure
+
 src/
 ├── App.jsx              # Main app logic & layout
 ├── index.js             # React entry point
 ├── index.css            # Global styles + animations
 └── components/
-├── MovieCard.jsx    # Individual movie card
-├── SearchBar.jsx    # Search input + button
-└── ShimmerCard.jsx  # Loading skeleton
+    ├── MovieCard.jsx    # Individual movie card
+    ├── SearchBar.jsx    # Search input + button
+    └── ShimmerCard.jsx  # Loading skeleton
 
 ---
 
-
-> **Note:** Get your free OMDB API key at [omdbapi.com](https://www.omdbapi.com/apikey.aspx) and replace `"trilogy"` in `App.jsx` with your key.
-
-## Project Structure
+Made with love by Yukta Taneja
